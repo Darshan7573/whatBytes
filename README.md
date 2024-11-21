@@ -56,7 +56,6 @@ The app has been deployed and can be accessed live via the following link:
 [Skill Test Application - Live Demo](https://what-bytes-nu.vercel.app/)
 
 ## Screenshots
-DESKTOP VERSION
 ![image](https://github.com/user-attachments/assets/73a8c256-19b7-4e6d-b363-084b7cb0dc17)
 
 
