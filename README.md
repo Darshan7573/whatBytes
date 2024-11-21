@@ -58,8 +58,6 @@ The app has been deployed and can be accessed live via the following link:
 ## Screenshots
 DESKTOP VERSION
 ![image](https://github.com/user-attachments/assets/73a8c256-19b7-4e6d-b363-084b7cb0dc17)
-MOBILE VERSION
-![image](https://github.com/user-attachments/assets/bd1ecb91-83ad-4955-9d14-62b53bc831ed)
 
 
 ## Contributing
