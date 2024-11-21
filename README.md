@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Skill Test Application
+
+This is a Skill Test Application built with Next.js. The app allows users to take a skill test, track their progress, and update their rank and percentage. It uses Chart.js for visualizing test performance and a circular progress bar to track the questions answered.
+
+## Features
+
+- **Update Rank and Percentage**: Users can update their rank and percentage based on their performance in the skill test.
+- **Chart.js Integration**: The app uses Chart.js to visualize the user's performance data.
+- **Circular Progress Bar**: A circular progress bar tracks the number of questions answered and displays the user's progress.
+- **Annotations**: Annotations are used to highlight key aspects of the user's performance, such as strengths and areas for improvement.
+
+## Technologies Used
+
+- **Next.js**: The React framework used for building the application.
+- **Chart.js**: Used for rendering interactive and responsive charts to visualize the test performance.
+- **React Circular Progress Bar**: A library used to implement the circular progress bar.
+- **Tailwind CSS**: For styling the application and ensuring it is responsive.
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to get the project running locally.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js (version >= 14.x.x)
+- npm or yarn
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:
 
-## Learn More
+2. Navigate into the project directory:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   cd my-app
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Install the dependencies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+4. Run the development server:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. Open your browser and visit `http://localhost:3000` to access the application.
+
+## Deployment
+
+The app has been deployed and can be accessed live via the following link:
+
+[Skill Test Application - Live Demo](https://what-bytes-nu.vercel.app/)
+
+## Screenshots
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests. For bug reports or feature requests, please open an issue.
+
+---
+
+**Built by [Darshn](https://github.com/Darshan7573)**. Happy coding!
