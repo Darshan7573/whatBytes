@@ -6,7 +6,7 @@ import ProgressBars from "./components/QuestionAnalysis"
 import SideBar from "./components/SideBar"
 import SkillTest from "./components/SkillTest"
 
-const page = () => {
+const Page = () => {
 
   const [questions, setQuestions] = useState(0);
 
@@ -22,4 +22,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
